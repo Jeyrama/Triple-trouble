@@ -26,3 +26,5 @@ function tripledouble(num1, num2) {
   }
   return 0;
 }
+
+// or
