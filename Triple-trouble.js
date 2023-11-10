@@ -14,3 +14,6 @@ Examples:
   tripledouble(451999277, 41177722899) == 1 // num1 has straight triple 999s and 
                                             // num2 has straight double 99s
 */
+
+
+// Solution
